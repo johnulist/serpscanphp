@@ -1,0 +1,19 @@
+{
+  "name": "oceanapplications/serpscanphp",
+  "description": "Serpscan.com PHP wrapper",
+  "license": "MIT",
+  "keywords": ["serpscan"],
+  "authors": [
+    {
+      "name": "Ocean Applications",
+      "email": "oceanapplications@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "OceanApplications\\Serpscan\\": "src"
+    }
+  }
+}
